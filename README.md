@@ -1,1 +1,2 @@
 This project consists of a PowerBI dashboard built using the contoso dataset, a virtual company designed by microsoft for analytics training.
+You can find the link to the dashboard as well as the linkedin post discussing the work done in this dashboard in the Dashboard-Link category. In the SQL-Validation category, I have run some SQL code to verify the numbers calculated by PowerBI as a double verification.
